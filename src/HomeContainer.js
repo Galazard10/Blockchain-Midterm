@@ -73,7 +73,7 @@ function HomeContainer(props){
 
                     {/* Unroasted coffee */}
                     <div className="card" style={{width: '22rem'}}>
-                        <img src="https://lh3.googleusercontent.com/proxy/pfeGAxIrPshZgCUS74YY2K6Q8i3eKuqzZaq12wZ3uO86leontWAEaP4_BJdBvVy_e1x7RBrJn7RupDOX5r9CPq_GSW-050vZCxWakbabJ4bVKpvkDCWoqw" className="card-img-top" style={{backgroundPosition: 'center', height: '250px', objectFit: 'cover'}}/>
+                        <img src="https://www.shopquesthealth.com/wp-content/uploads/2019/10/Green-Coffee-Bean-Extract.jpg  " className="card-img-top" style={{backgroundPosition: 'center', height: '250px', objectFit: 'cover'}}/>
                         <div className="card-body">
                             <h5 className="card-title">Unroasted Coffee</h5>
                             <p className="card-text" style={{minHeight: '100px'}}>Many of our customers prefer to roast their own coffee at home. Roasting your own coffee allows you to roast your coffee to the exact degree of darkness that you desire.</p>
