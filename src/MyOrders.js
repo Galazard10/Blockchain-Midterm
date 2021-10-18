@@ -11,7 +11,7 @@ function MyOrders(props){
             <div className="container mt-3">
                 <div className="row">
                     <div className="col-12">
-                        <table className="table table-striped">
+                        <table className="table">
                             <thead className="text-center">
                                 <tr>
                                     <th>Coffee Type</th>

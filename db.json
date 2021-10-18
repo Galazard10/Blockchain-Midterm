@@ -1,0 +1,66 @@
+{
+    "orders": [
+        {
+            "id": "1",
+            "coffeeType": "Ethiopean Coffee",
+            "boxType": "1-kilo",
+            "amount": "10",
+            "deliveryDate": "2021-10-29", 
+            "statusId": "1"
+        },
+        {
+            "id": "2",
+            "coffeeType": "Ethiopean Coffee",
+            "boxType": "3-kilo",
+            "amount": "50",
+            "deliveryDate": "2021-10-30", 
+            "statusId": "1"
+        },
+        {
+            "id": "3",
+            "coffeeType": "Ethiopean Coffee",
+            "boxType": "3-kilo",
+            "amount": "90",
+            "deliveryDate": "2021-11-04",
+            "statusId": "1" 
+        },
+        {
+            "id": "4",
+            "coffeeType": "Colombian Coffee",
+            "boxType": "2-kilo",
+            "amount": "20",
+            "deliveryDate": "2021-09-30",
+            "statusId": "3" 
+        }
+    ],
+    "statuses": [
+        {
+            "id": "1",
+            "message": "Order confirmed"
+        },
+        {
+            "id": "2",
+            "message": "Preparing for delivery"
+        },
+        {
+            "id": "3",
+            "message": "Delivery in progress"
+        },
+        {
+            "id": "4",
+            "message": "Delivered"
+        },
+        {
+            "id": "5",
+            "message": "Receivedn"
+        },
+        {
+            "id": "6",
+            "message": "Not delivered"
+        },
+        {
+            "id": "7",
+            "message": "Returned"
+        }
+    ]
+}
